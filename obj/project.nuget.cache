@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugc6T3AvBcLOuZypf16pud+QAzV2QCdyaOqytzb/nEGHW0uTGx4ponmeO1ZjxAKtlJ+8GWI+9lyPzw6Kod9+pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91760\\OneDrive\\Desktop\\BankLogin Project\\WebAppFirstBank\\WebAppFirstBank\\WebAppFirstBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91760\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
